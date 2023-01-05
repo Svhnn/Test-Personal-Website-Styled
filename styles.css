@@ -1,0 +1,147 @@
+body {
+    color: #40514E;
+    margin: 0;
+    text-align: center;
+    font-family: 'merriweather', serif;
+}
+
+h1 {
+    color: #66BFBF;
+    font-size: 5.625rem;
+    font-family: 'sacramento', cursive;
+    margin: 50px auto 0 auto;
+}
+
+h2 {
+    color: #66BFBF;
+    font-family: 'montserrat', sans-serif;
+    font-size: 2.5rem;
+    font-weight: normal;
+    padding-bottom: 0px;
+}
+
+h3 {
+    color: #11999E;
+    font-family: 'montserrat', sans-serif;
+}
+
+hr {
+    border: dotted #EAF6F6 6px;
+    border-bottom: none;
+    width: 4%;
+    margin: 100px auto;
+}
+
+a {
+    color: #66BFBF;
+}
+
+.pro {
+    text-decoration: underline;
+}
+
+.top-container {
+    background-color: #e4f9f5;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 250px;
+    bottom: 300px;
+}
+
+.mountain {
+    position: relative;
+    top: 10px;
+}
+
+.middle-container {
+    margin: 100px 0 25px;
+}
+
+.pfp {
+    width: 200px;
+    height: 200px;
+}
+
+.intro {
+    width: 30%;
+    margin: auto;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+
+.coding-image {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+
+.running-image {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+}
+
+.contact-button {
+	background:linear-gradient(to bottom, #362e6e 5%, #534187 100%);
+	background-color:#362e6e;
+	border-radius:8px;
+	border:1px solid #1e1e45;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	padding:6px 13px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #263666;
+    margin-bottom: 30px
+}
+.contact-button:hover {
+	background:linear-gradient(to bottom, #534187 5%, #362e6e 100%);
+	background-color:#534187;
+}
+.contact-button:active {
+	position:relative;
+	top:1px;
+}
+
+.bottom-container {
+    background-color: #66BFBF;
+    padding: 50px 0;
+}
+
+.footer-link {
+    padding: 10px;
+    color: #11999E;
+}
+
+.footer-link:hover {
+    color: #dce9ea;
+}
+
+.copyright {
+    color: #EAF6F6;
+    font-size: 0.75rem;
+    padding-top: 20px;
+}
+
